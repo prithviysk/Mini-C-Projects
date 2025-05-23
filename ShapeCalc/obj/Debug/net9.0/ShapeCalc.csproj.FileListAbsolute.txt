@@ -1,0 +1,14 @@
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/bin/Debug/net9.0/ShapeCalc
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/bin/Debug/net9.0/ShapeCalc.deps.json
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/bin/Debug/net9.0/ShapeCalc.runtimeconfig.json
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/bin/Debug/net9.0/ShapeCalc.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/bin/Debug/net9.0/ShapeCalc.pdb
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/obj/Debug/net9.0/ShapeCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/obj/Debug/net9.0/ShapeCalc.AssemblyInfoInputs.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/obj/Debug/net9.0/ShapeCalc.AssemblyInfo.cs
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/obj/Debug/net9.0/ShapeCalc.csproj.CoreCompileInputs.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/obj/Debug/net9.0/ShapeCalc.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/obj/Debug/net9.0/refint/ShapeCalc.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/obj/Debug/net9.0/ShapeCalc.pdb
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/obj/Debug/net9.0/ShapeCalc.genruntimeconfig.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/ShapeCalc/obj/Debug/net9.0/ref/ShapeCalc.dll

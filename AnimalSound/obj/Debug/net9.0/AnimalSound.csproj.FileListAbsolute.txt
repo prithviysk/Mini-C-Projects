@@ -1,0 +1,14 @@
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/bin/Debug/net9.0/AnimalSound
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/bin/Debug/net9.0/AnimalSound.deps.json
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/bin/Debug/net9.0/AnimalSound.runtimeconfig.json
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/bin/Debug/net9.0/AnimalSound.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/bin/Debug/net9.0/AnimalSound.pdb
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/obj/Debug/net9.0/AnimalSound.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/obj/Debug/net9.0/AnimalSound.AssemblyInfoInputs.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/obj/Debug/net9.0/AnimalSound.AssemblyInfo.cs
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/obj/Debug/net9.0/AnimalSound.csproj.CoreCompileInputs.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/obj/Debug/net9.0/AnimalSound.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/obj/Debug/net9.0/refint/AnimalSound.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/obj/Debug/net9.0/AnimalSound.pdb
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/obj/Debug/net9.0/AnimalSound.genruntimeconfig.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/AnimalSound/obj/Debug/net9.0/ref/AnimalSound.dll

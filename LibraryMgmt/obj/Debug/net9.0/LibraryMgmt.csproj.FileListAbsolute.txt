@@ -1,0 +1,15 @@
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/bin/Debug/net9.0/LibraryMgmt
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/bin/Debug/net9.0/LibraryMgmt.deps.json
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/bin/Debug/net9.0/LibraryMgmt.runtimeconfig.json
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/bin/Debug/net9.0/LibraryMgmt.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/bin/Debug/net9.0/LibraryMgmt.pdb
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/obj/Debug/net9.0/LibraryMgmt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/obj/Debug/net9.0/LibraryMgmt.AssemblyInfoInputs.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/obj/Debug/net9.0/LibraryMgmt.AssemblyInfo.cs
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/obj/Debug/net9.0/LibraryMgmt.csproj.CoreCompileInputs.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/obj/Debug/net9.0/LibraryMgmt.sourcelink.json
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/obj/Debug/net9.0/LibraryMgmt.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/obj/Debug/net9.0/refint/LibraryMgmt.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/obj/Debug/net9.0/LibraryMgmt.pdb
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/obj/Debug/net9.0/LibraryMgmt.genruntimeconfig.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/LibraryMgmt/obj/Debug/net9.0/ref/LibraryMgmt.dll

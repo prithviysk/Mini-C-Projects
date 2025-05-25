@@ -1,0 +1,15 @@
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/bin/Debug/net9.0/ShoppingCart
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/bin/Debug/net9.0/ShoppingCart.deps.json
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/bin/Debug/net9.0/ShoppingCart.runtimeconfig.json
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/bin/Debug/net9.0/ShoppingCart.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/bin/Debug/net9.0/ShoppingCart.pdb
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/obj/Debug/net9.0/ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/obj/Debug/net9.0/ShoppingCart.AssemblyInfoInputs.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/obj/Debug/net9.0/ShoppingCart.AssemblyInfo.cs
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/obj/Debug/net9.0/ShoppingCart.csproj.CoreCompileInputs.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/obj/Debug/net9.0/ShoppingCart.sourcelink.json
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/obj/Debug/net9.0/ShoppingCart.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/obj/Debug/net9.0/refint/ShoppingCart.dll
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/obj/Debug/net9.0/ShoppingCart.pdb
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/obj/Debug/net9.0/ShoppingCart.genruntimeconfig.cache
+/Users/ysk/Desktop/C#/Mini C# Projects/ShoppingCart/obj/Debug/net9.0/ref/ShoppingCart.dll

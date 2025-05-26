@@ -12,6 +12,9 @@ public class Magazines : LibraryItem
     public bool IsOnLoan => _isOnLoan;
     public string? CurrentBorrowerId => _currentBorrowerId;
     public DateTime? DueDate => _dueDate;
+    
+    public event EventHandler<LoanEventArgs>? ItemLoaned;
+    public event EventHandler<ReturnEventArgs>? ItemReturned;
 
     public Magazines(string itemID, string title, int issueNumber, DateTime publicationDate)
         : base(itemID, title)
@@ -45,6 +48,8 @@ public class Magazines : LibraryItem
             _dueDate = dueDate;
             SetAvailability(false);
             Console.WriteLine($"- Magazine '{Title}' (Issue #{IssueNumber}) loaned to {borrowerId}. Due on {dueDate.ToShortDateString()}.");
+            
+            OnItemLoaned(new LoanEventArgs(this, borrowerId, loanDate, dueDate));
         }
         else
         {
@@ -61,14 +66,27 @@ public class Magazines : LibraryItem
             {
                 Console.WriteLine($"  (Note: This item was overdue!)");
             }
+            string tempBorrowerId = CurrentBorrowerId;
             _isOnLoan = false;
             _currentBorrowerId = null;
             _dueDate = null;
             SetAvailability(true);
+            
+            OnItemReturned(new  ReturnEventArgs(this, tempBorrowerId, returnDate, returnDate>DueDate));
         }
         else
         {
             Console.WriteLine($"- Magazine '{Title}' (ID: {ItemId}) was not currently on loan.");
         }
+    }
+
+    protected virtual void OnItemLoaned(LoanEventArgs e)
+    {
+        ItemLoaned?.Invoke(this, e);
+    }
+
+    protected virtual void OnItemReturned(ReturnEventArgs e)
+    {
+        ItemReturned?.Invoke(this, e);
     }
 }

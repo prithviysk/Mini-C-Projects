@@ -4,23 +4,29 @@ class Program
 {
     static void Main(string[] args)
     {
+        Library myLibrary = new Library("Central City Library");
         Console.WriteLine("### Library Item Management (Phase 1 & 2 Demo) ###\n");
         
         Console.WriteLine("--- Creating Library Items ---");
         Book lordOfTheRings = new Book("J.R.R. Tolkien", "978-0618260274", "B001", "The Lord of the Rings");
         Magazines natGeo = new Magazines("M005", "National Geographic", 321, new DateTime(2024, 5, 1));
         Book hobbit = new Book("J.R.R. Tolkien", "B002", "978-0345339683","The Hobbit");
-
         
-        Console.WriteLine("\n--- Displaying Item Info ---");
-        lordOfTheRings.DisplayInfo();
-        Console.WriteLine($"Summary: {lordOfTheRings.GetSummary()}\n");
-
-        natGeo.DisplayInfo();
-        Console.WriteLine($"Summary: {natGeo.GetSummary()}\n");
-
-        hobbit.DisplayInfo();
-        Console.WriteLine($"Summary: {hobbit.GetSummary()}\n");
+        myLibrary.AddItem(lordOfTheRings);
+        myLibrary.AddItem(natGeo);
+        myLibrary.AddItem(hobbit);
+        
+        myLibrary.DisplayAllItems();
+        
+        // Console.WriteLine("\n--- Displaying Item Info ---");
+        // lordOfTheRings.DisplayInfo();
+        // Console.WriteLine($"Summary: {lordOfTheRings.GetSummary()}\n");
+        //
+        // natGeo.DisplayInfo();
+        // Console.WriteLine($"Summary: {natGeo.GetSummary()}\n");
+        //
+        // hobbit.DisplayInfo();
+        // Console.WriteLine($"Summary: {hobbit.GetSummary()}\n");
 
         
         Console.WriteLine("\n--- Testing Loanable Behavior ---");
